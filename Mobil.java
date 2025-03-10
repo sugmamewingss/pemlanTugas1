@@ -44,6 +44,7 @@ public class Mobil {
     }
 
     public void displayMessage() { // menampilkan status mobil
+        System.out.println();
         System.out.println("=================================================");
         System.out.println("Berikut adalah informasi pada mobil!");
         System.out.println("Merk mobil                   : " + manufaktur);
